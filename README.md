@@ -1,2 +1,4 @@
-# Matrix_DW
-Projekt transformacja - poznaj reguły gry
+# Projekt transformacja - poznaj reguły gry
+Tutaj pojawią się zadania z 5 dni projektu transofmacji
+
+* Pierwszy dzień
